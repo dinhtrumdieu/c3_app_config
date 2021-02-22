@@ -1,10 +1,10 @@
 {
-	"TYPE": "Develop",
-	"BASE_URL_VNEXT": "http://54.249.71.234:8000",
-	"BASE_URL_OCR_IMAGE": "http://18.180.27.178:8080",
-	"BASE_URL_OCR": "http://18.180.27.178:8080/hoyu_classify",
-	"BASE_URL_HOYU": "http://www.hoyusys.co.jp/catalog2/c3convert",
-     "URL_HOYU_DB": "http://34.70.185.20:9000",
+    "TYPE": "Develop",
+    "BASE_URL_VNEXT": "http://54.249.71.234:8000",
+    "BASE_URL_OCR_IMAGE": "http://18.180.27.178:8080",
+    "BASE_URL_OCR": "http://18.180.27.178:8080/hoyu_classify",
+    "BASE_URL_HOYU": "http://www.hoyusys.co.jp/catalog2/c3convert",
+    "URL_HOYU_DB": "http://34.70.185.20:9000",
     "BASE_URL_LICENSE_PLATES": "http://35.222.129.246:8080",
-	"VERSION": "1.0.0"
+    "VERSION": "1.0.0"
 }
